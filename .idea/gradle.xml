@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/bottom-nav" />
+            <option value="$PROJECT_DIR$/bottomnav" />
             <option value="$PROJECT_DIR$/lazycolumn-retrofit" />
           </set>
         </option>

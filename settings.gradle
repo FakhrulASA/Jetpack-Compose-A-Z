@@ -9,4 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "Jetpack Compose A-Z"
 include ':app'
 include ':bottom-nav'
-include ':lazy-column-retrofit'
+include ':lazycolumn-retrofit'
+
